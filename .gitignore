@@ -3,8 +3,7 @@
 ###
 .chef/*.pem
 .chef/encrypted_data_bag_secret
-.chef/api_client_id
-.chef/api_key
+.chef/access_token
 
 # Ruby
 .rake_test_cache
