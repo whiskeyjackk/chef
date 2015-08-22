@@ -1,7 +1,17 @@
-.rake_test_cache
-
 ###
 # Ignore Chef key files and secrets
 ###
 .chef/*.pem
 .chef/encrypted_data_bag_secret
+
+# Ruby
+.rake_test_cache
+.rvmrc
+.rbenv-version
+
+# Vim
+.*.s[a-w][a-z]
+*.un~
+Session.vim
+.netrwhist
+*~
