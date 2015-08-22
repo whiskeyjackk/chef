@@ -9,3 +9,5 @@ validation_client_name   "skynet-validator"
 validation_key           "#{current_dir}/skynet-validator.pem"
 chef_server_url          "https://chefserver.chefgoruby.com/organizations/skynet"
 cookbook_path            ["#{current_dir}/../cookbooks"]
+knife[:digital_ocean_client_id] = "#{current_dir}/api_client_id"
+knife[:digital_ocean_api_key] = "#{current_dir}/api_key"
