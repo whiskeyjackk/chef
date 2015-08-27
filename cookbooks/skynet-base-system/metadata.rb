@@ -1,0 +1,7 @@
+name             'skynet-base-system'
+maintainer       'YOUR_NAME'
+maintainer_email 'YOUR_EMAIL'
+license          'All rights reserved'
+description      'Installs/Configures skynet-base-system'
+long_description 'Installs/Configures skynet-base-system'
+version          '0.1.0'
