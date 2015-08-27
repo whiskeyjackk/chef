@@ -1,7 +1,0 @@
-name             'skynet-base-system'
-maintainer       'Kenneth Fox'
-maintainer_email 'kfox@digitalocean.com'
-license          'All rights reserved'
-description      'Installs/Configures skynet-base-system'
-long_description 'Installs/Configures skynet-base-system'
-version          '0.1.0'
