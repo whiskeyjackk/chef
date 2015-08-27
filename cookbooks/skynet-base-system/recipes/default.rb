@@ -9,7 +9,7 @@
 
 #Skynet base system
 
-include_recipe "cron"
-include_recipe "ntpd"
+include_recipe "chef-client-cron"
+include_recipe "ntp"
 include_recipe "rsyslog"
 include_recipe "vim"

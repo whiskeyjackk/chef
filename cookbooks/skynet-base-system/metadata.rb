@@ -1,6 +1,6 @@
 name             'skynet-base-system'
-maintainer       'YOUR_NAME'
-maintainer_email 'YOUR_EMAIL'
+maintainer       'Kenneth Fox'
+maintainer_email 'kfox@digitalocean.com'
 license          'All rights reserved'
 description      'Installs/Configures skynet-base-system'
 long_description 'Installs/Configures skynet-base-system'
