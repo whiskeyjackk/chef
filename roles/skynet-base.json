@@ -1,0 +1,7 @@
+{
+  "name": "skynet-base",
+  "description": "This is the base Skynet server role",
+  "run_list": [
+    "recipe[skynet-base]"
+  ]
+}
