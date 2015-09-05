@@ -94,7 +94,3 @@ Vagrantfile
 # Travis #
 ##########
 .travis.yml
-
-# Bash ERB #
-############
-*.sh.erb
