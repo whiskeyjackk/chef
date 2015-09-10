@@ -1,0 +1,14 @@
+---
+default_environments:
+- production
+always_promote_remote: true
+plugins:
+  git:
+    enabled: true
+  foodcritic:
+    enabled: false
+    fail_tags:
+    - any
+
+version_change_threshold: 1
+environment_path: "/root/chef/environments"
